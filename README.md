@@ -1,16 +1,16 @@
 # Task-manager
-1. Clone the Repository
-git clone https://github.com/sonalsingh3498/Task-manager.git
-cd Task-manager
+- Clone the Repository
+- git clone https://github.com/sonalsingh3498/Task-manager.git
+- cd Task-manager
 
-2. Backend (Server)
-cd server
-npm install
+- Backend (Server)
+- cd server
+- npm install
 
 # Create a .env file in /server with
-MONGO_URI=your_mongo_connection_string
-JWT_SECRET=your_jwt_secret
-PORT=5000
+- MONGO_URI=your_mongo_connection_string
+ -JWT_SECRET=your_jwt_secret
+- PORT=5000
 
 # Start the backend:
 npm run dev
