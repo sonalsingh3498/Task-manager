@@ -7,7 +7,8 @@
 - cd server
 - npm install
 - Create a .env file in /server with
-` - MONGO_URI=your_mongo_connection_string
+` 
+  - MONGO_URI=your_mongo_connection_string
   - JWT_SECRET=your_jwt_secret
   - PORT=5000`
 
