@@ -8,20 +8,19 @@
 - npm install
 
 # Create a .env file in /server with
+
 - MONGO_URI=your_mongo_connection_string
- -JWT_SECRET=your_jwt_secret
+- JWT_SECRET=your_jwt_secret
 - PORT=5000
 
 # Start the backend:
-npm run dev
-<!-- http://localhost:5000 -->
+-npm run dev
 
-3. Frontend (Client)
+# Frontend (Client)
 
-cd client
-npm install
-npm start
-<!-- http://localhost:3000 -->
+- cd client
+- npm install
+- npm start
 
 # API Endpoints
 Auth Routes
